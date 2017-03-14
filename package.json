@@ -1,6 +1,6 @@
 {
   "name": "slang-translator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Slang translator based on noslang.com",
   "main": "index.js",
   "scripts": {
