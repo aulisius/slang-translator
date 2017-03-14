@@ -1,0 +1,15 @@
+{
+  "name": "slang-translator",
+  "version": "0.0.1",
+  "description": "Slang translator based on noslang.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Faizaan <aulisius7@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "^9.12.0",
+    "node-fetch": "^1.6.3"
+  }
+}
