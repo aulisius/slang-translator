@@ -8,4 +8,9 @@ input = 'idk'
 output = translate(input)
 console.assert(output === 'I don\'t know', 'Translation failed')
 
+input = 'this'
+output = translate(input)
+console.assert(output === 'this', 'Translation failed')
+
 console.log('All tests passed')
+
