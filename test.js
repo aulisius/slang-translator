@@ -12,5 +12,9 @@ input = 'this'
 output = translate(input)
 console.assert(output === 'this', 'Translation failed')
 
+input = '1th'
+output = translate(input)
+console.assert(output === '1th', 'Translation failed')
+
 console.log('All tests passed')
 
