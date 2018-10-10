@@ -8,6 +8,10 @@
   },
   "author": "Faizaan <aulisius7@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aulisius/slang-translator.git"
+  },
   "devDependencies": {
     "jsdom": "^9.12.0",
     "node-fetch": "^1.6.3"
